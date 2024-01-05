@@ -1,13 +1,13 @@
-package com.CartService;
+package com.BasketService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CartServiceApplication {
+public class BasketServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CartServiceApplication.class, args);
+		SpringApplication.run(BasketServiceApplication.class, args);
 	}
 
 }

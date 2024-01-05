@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Order-Service" />
-        <module name="Cart-Service" />
         <module name="Auth-Service" />
+        <module name="Basket-Service" />
         <module name="Eureka" />
         <module name="Api-Gateway" />
         <module name="Product-Service" />
@@ -20,7 +20,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Api-Gateway" options="-parameters" />
       <module name="Auth-Service" options="-parameters" />
-      <module name="Cart-Service" options="-parameters" />
+      <module name="Basket-Service" options="-parameters" />
       <module name="Eureka" options="-parameters" />
       <module name="Order-Service" options="-parameters" />
       <module name="Product-Service" options="-parameters" />

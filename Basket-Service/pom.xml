@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.Cart-Service</groupId>
-	<artifactId>Cart-Service</artifactId>
+	<artifactId>Basket-Service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Cart-Service</name>
 	<description>Demo project for Spring Boot</description>
